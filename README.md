@@ -2,10 +2,9 @@
   <body>
     👋 Hi, I’m 
    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="satyam-patel-222ba0184" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/satyam-patel-222ba0184?trk=profile-badge">Satyam Patel</a></div>
-   - 🌱
+  
     <div>
-      
-    I originally studied engineering at university and during that time I started getting involved in several cybersecurity events such as Capture the Flag activities and conferences. As I became more experienced, I found that I enjoyed the challenges of cybersecurity more than my degree.
+- 🌱I originally studied engineering at university and during that time I started getting involved in several cybersecurity events such as Capture the Flag activities and conferences. As I became more experienced, I found that I enjoyed the challenges of cybersecurity more than my degree.
 
 I loved that thinking unconventionally was encouraged, for example, identifying the exceptions, finding the anomalies, or thinking of things no one has ever considered before. This made learning about techniques and tools exciting.
 
